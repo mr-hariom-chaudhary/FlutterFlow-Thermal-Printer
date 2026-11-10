@@ -60,10 +60,4 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add screenshots of the app screen and a printed receipt here -->
-
----
-
 👤 **Hariom Chaudhary**, Flutter Developer · [LinkedIn](https://www.linkedin.com/in/hariom-chaudhary-dev)
